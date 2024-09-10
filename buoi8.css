@@ -1,0 +1,31 @@
+.container{
+    background-color: rgb(243, 243, 242);
+    padding: 10px;
+    padding-left: 70px;
+    margin: 50px;
+}
+#h1{
+    color: blue;
+}
+#chose{
+    margin-left: 49px;
+}
+#Semester{
+    margin-right: 7px;
+}
+.year{
+    margin-top: 20px;
+}
+.group3{
+    margin-top: 20px;
+}
+.group4{
+    margin-left: 50%;
+}
+#p1{
+    color: red;
+}
+.group4{
+    display: flex;
+    gap: 40px;
+}
